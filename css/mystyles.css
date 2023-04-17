@@ -14,6 +14,7 @@
 
 .mainbody{
     background-color: rgb(131, 195, 67);
+    list-style-position: inside;
 }
 
 body{
@@ -63,13 +64,4 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:25%;
-}
-
-ol{
-    list-style-position: inside;
-}
-
-ul{
-    list-style-position: inside;
 }
